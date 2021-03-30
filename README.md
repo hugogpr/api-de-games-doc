@@ -75,7 +75,7 @@ Exemplo de resposta:
 ```
 
 ##### Falha na autenticação! 401
-Caso essa reposta aconteça, isso significa que alguma falha durante o processo de autenticação da requisição. Motivos: Senha e email incorretos, email não cadastrado no sistema.
+Caso essa reposta aconteça, isso significa que houve alguma falha durante o processo de autenticação da requisição. Motivos: Senha e email incorretos ou email não cadastrado no sistema.
 
 Exemplo de resposta:
 Senha não correspondendo ao email cadastrado.
